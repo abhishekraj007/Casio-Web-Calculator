@@ -1,3 +1,4 @@
 # Casio-Web-Calculator
 Web Based Scientific Calculator
-Demo:
+<br>
+Visit:  <a href="http://abhishekraj007.github.io/apps/Casio-Web-Calculator/">Demo</a>
