@@ -1,7 +1,20 @@
 # Casio-Web-Calculator
-This is a Web Based Scientific Calculator.<br>
-The inspiration is taken from popular Casio electronic calculator.<br>
-Actually, I wanted to replicate the complete function of this calculator (<a target="_blank" href="http://ecx.images-amazon.com/images/I/71tFoa7v5EL._SL1500_.jpg">see here </a> ) on web using javascript, but things got complicated and I took U turn and tried to build this one (<a target="_blank" href="https://mafstorage001.blob.core.windows.net/appimages/ProductImages/Standard/62574.jpg" >see here</a> ). 
-Neverthless I tried to add more function to second calculator than It provided. 
-<br>
-At the end I ended up building this one: Visit:  <a href="http://abhishekraj007.github.io/apps/Casio-Web-Calculator/">Demo</a>
+This is a Web Based Scientific Calculator build using HTML, CSS and JavaScript. The inspiration is taken from popular Casio electronic calculator.<br>
+
+I wanted to design and build something that looked clean, used no images, just pure CSS for designing all components of a calculator.
+
+#Features
+<ul>
+<li> All basic Arithmetic calculation. </li>
+<li> Supports Logarthmic and trigonometric calculation. </li>
+</ul>
+
+#Demo
+Published a <a href="http://abhishekraj.info/apps/Casio-Web-Calculator/">Demo</a> where you can try the calculator online.
+
+#Licence
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software without limitation the rights to use, copy, modify, merge, publish, and distribute.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. THE POJECT MAY CONTAIN SOME BUGS.
+
